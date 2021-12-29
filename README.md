@@ -8,3 +8,6 @@ http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 
 ## Linked_List_C_pointer 실행결과
 ![Linked_List_result](https://user-images.githubusercontent.com/50546745/147563589-afc00b12-c90e-43bc-a414-7eccf4b5d0f8.png)
+
+## factorial_recursive 실행결과
+![recursive_result](https://user-images.githubusercontent.com/50546745/147659611-bcbc0259-f7b8-4c65-b399-93ecae4a4aff.png)
