@@ -11,3 +11,6 @@ http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 
 ## factorial_recursive 실행결과
 ![recursive_result](https://user-images.githubusercontent.com/50546745/147659611-bcbc0259-f7b8-4c65-b399-93ecae4a4aff.png)
+
+## Array_stack 
+![stack_array](https://user-images.githubusercontent.com/50546745/147668227-72d0b5de-ae08-4c4f-93b8-1878f3ea737d.png)
