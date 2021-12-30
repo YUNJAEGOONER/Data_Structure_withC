@@ -15,5 +15,8 @@ http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 ## Array_stack 실행결과 
 ![stack_array](https://user-images.githubusercontent.com/50546745/147668227-72d0b5de-ae08-4c4f-93b8-1878f3ea737d.png)
 
-## Array_Queue 
+## Array_Queue 실행결과
 ![Queue_exe](https://user-images.githubusercontent.com/50546745/147725098-dac20622-207a-4714-b396-0ea4ce5c4dad.png)
+
+## Circular_Queue_using_array 실행결과
+![Circular_Queue_2](https://user-images.githubusercontent.com/50546745/147741915-9790b43b-7d44-4a17-8f76-1717f5bdd4dd.png)
