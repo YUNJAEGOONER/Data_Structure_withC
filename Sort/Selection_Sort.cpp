@@ -24,7 +24,7 @@ void Selection_Sort(int array[5], int size) {
 
 
 int main() {
-	cout << "Bubble_Sort" << endl;
+	cout << "Selection_Sort" << endl;
 	int array[5] = { 22, 51, 17, 55, 1 };
 	Selection_Sort(array, sizeof(array) / sizeof(int));
 }
