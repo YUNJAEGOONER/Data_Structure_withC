@@ -27,3 +27,7 @@ http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 
 ## Recrusive 실행결과
 ![recursive_function](https://user-images.githubusercontent.com/50546745/148931437-44eafc72-b661-4a55-96c1-ca43558a425f.png)
+
+## Array_with_pointer 실행결과
+배열의 이름은 배열의 시작주소를 저장하는 __포인터 변수__ 이다.
+![Array_pointer](https://user-images.githubusercontent.com/50546745/149475557-2c89f5cb-e066-448e-a0db-ed91b4df3947.png)
