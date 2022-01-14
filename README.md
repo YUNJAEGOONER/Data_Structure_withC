@@ -3,6 +3,10 @@
 
 http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 
+자료구조
+
+http://www.kocw.net/home/cview.do?cid=a2cb71317f987a7c
+
 ## struct_with_malloc 실행결과
 ![struct_with_malloc_exe](https://user-images.githubusercontent.com/50546745/147537553-0c6471e1-e367-464d-8dcb-789675f930a8.png)
 
@@ -27,3 +31,8 @@ http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 
 ## Recrusive 실행결과
 ![recursive_function](https://user-images.githubusercontent.com/50546745/148931437-44eafc72-b661-4a55-96c1-ca43558a425f.png)
+
+## Array_with_pointer 실행결과
+배열의 이름은 배열의 시작주소를 저장하는 __포인터 변수__ 이다.
+
+![Array_pointer](https://user-images.githubusercontent.com/50546745/149475557-2c89f5cb-e066-448e-a0db-ed91b4df3947.png)
