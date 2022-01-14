@@ -24,3 +24,6 @@ http://www.kocw.net/home/cview.do?cid=dc5d8a154486912b
 ## KNU_2020 실행결과 및 분석 
 ![recursive_stack](https://user-images.githubusercontent.com/50546745/148911377-ef9f0d66-c3ba-4222-8220-5a27a6069ba4.png)
 ![recursive_knu](https://user-images.githubusercontent.com/50546745/148911399-9e88117c-0b56-4342-a141-81c1ee744fd1.png)
+
+## Recrusive 실행결과
+![recursive_function](https://user-images.githubusercontent.com/50546745/148931437-44eafc72-b661-4a55-96c1-ca43558a425f.png)
