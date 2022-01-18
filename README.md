@@ -36,3 +36,8 @@ http://www.kocw.net/home/cview.do?cid=a2cb71317f987a7c
 배열의 이름은 배열의 시작주소를 저장하는 __포인터 변수__ 이다.
 
 ![Array_pointer](https://user-images.githubusercontent.com/50546745/149475557-2c89f5cb-e066-448e-a0db-ed91b4df3947.png)
+
+## double_pointer_example 실행결과
+
+![Double_pointer](https://user-images.githubusercontent.com/50546745/149767922-c17c6de1-b69a-4794-b899-9939ed5e3728.png)
+
